@@ -3,7 +3,7 @@
 <h1>
 <p align="center">
 
-<img src="https://github.com/TISControl/homebridge-tiscontrol-wired/blob/master/TIS-Homebridge-integrated-logo.png" width="200">
+<img src="https://github.com/TISControl/homebridge-tiscontrol-wired/blob/master/logo.png" width="200">
 
 </p>
   <br />
